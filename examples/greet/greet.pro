@@ -19,7 +19,9 @@
 ##   Description:
 ##     - Bulleted list of changes.
 ##
-## Copyright © 2017 United States Government as represented by NASA Glenn Research Center. No copyright is claimed in the United States under Title 17, U.S.Code. All Other Rights Reserved. See LICENSE.txt in the root of the repository for more details.
+## Copyright © 2017 United States Government as represented by NASA Glenn Research Center.
+## No copyright is claimed in the United States under Title 17, U.S.Code. All Other Rights Reserved.
+## See LICENSE.txt in the root of the repository for more details.
 ##
 ###################################################################### ##
 
